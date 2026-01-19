@@ -22,7 +22,7 @@ To get started with this project, you need to have the following installed on yo
 4. Open the browser and navigate to `http://localhost:5173`
 
 ```
-git clone https://github.com/your-username/ethyca-test.git
+git clone https://github.com/arnabtarwani/ethyca.git
 cd ethyca-test
 bun install
 bun dev
