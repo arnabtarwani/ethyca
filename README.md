@@ -23,7 +23,7 @@ To get started with this project, you need to have the following installed on yo
 
 ```
 git clone https://github.com/arnabtarwani/ethyca.git
-cd ethyca-test
+cd ethyca
 bun install
 bun dev
 ```
@@ -31,7 +31,7 @@ bun dev
 ## Project Structure
 
 ```
-ethyca-test/
+ethyca/
 ├── src/
 │   ├── components/ - Contains all the main components of the app.
 │   └── hooks/ - Contains all the custom hooks of the app.
